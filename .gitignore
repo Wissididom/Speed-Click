@@ -1,0 +1,6 @@
+.vs/
+.idea/
+.env
+bin/
+obj/
+*.user
